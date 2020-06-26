@@ -1,2 +1,2 @@
 # TicTacToe-Game
-Simple TicTacToe Game, Two players can play at a time.
+Simple Android App, Two players can play at a time.
